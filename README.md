@@ -1,6 +1,6 @@
 # Ember-quickstart
 
-A basic introduction to Ember.js. 
+A basic introduction to Ember.js.
 
 ## Prerequisites
 
@@ -15,9 +15,9 @@ You will need the following things properly installed on your computer.
 ## Installation
 
     $ git clone git@github.com:mwraich/Intro-To-Ember.git
-* change into the new directory
-    $ `npm install`
-    $ `bower install`
+    $ cd ember-quickstart/
+    $ npm install
+    $ bower install
 
 ## Running / Development
 
